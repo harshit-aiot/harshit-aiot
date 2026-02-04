@@ -20,7 +20,6 @@
 - 💼 **Professional**: 3+ years of Freelance experience in Embedded Systems & Robotics.
 
 ---
-
 ### 🛠️ Technical Laboratory
 
 <table align="center" border="0">
