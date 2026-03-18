@@ -1,74 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=distort&color=00b4d8&height=200&section=header&text=HARSHIT%20BHARGAVA&fontSize=60&fontAlignY=40&animation=twinkling">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=INTELLIGENT+IOT+SOLUTIONS;ROBOTICS+%26+EMBEDDED+AI;ESP32+%7C+ARDUINO+%7C+SENSORS;DATA+DRIVEN+AUTOMATION" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=HARSHIT%20BHARGAVA&fontSize=55&fontColor=ffffff"/>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-📡_Transmitting_Data-success?style=flat-square&logo=icloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/System-🟢_Online-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Location-Bikaner,_India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
-  </p>
+<h2>🚀 IoT + Data Analytics Engineer</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00B4D8&center=true&vCenter=true&width=600&lines=IoT+Systems+Developer;Data+Analytics+%7C+Power+BI;ESP32+%7C+Arduino+%7C+Sensors;Real-Time+Smart+Solutions"/>
+
+<br>
+
+<a href="https://github.com/harshit-aiot">
+<img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/harshit-bhargava-8b839b202">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:harshitbhargava439@gmail.com">
+<img src="https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/IoT-Engineer-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data-Analyst-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20Python-orange?style=flat-square"/>
+
 </div>
 
 ---
 
-### 🛰️ System Overview
-- 🎓 **Academic**: 2nd Year BCA (AI & ML) Student at **Lovely Professional University**.
-- 🤖 **Core Expertise**: Designing smart systems using **Arduino**, **ESP32**, and **Raspberry Pi**.
-- 🧠 **Intelligence**: Bridging the gap between **Embedded Systems** and **Computer Vision** (YOLO/OpenCV).
-- ☁️ **Connectivity**: Managing **IoT Cloud architectures** and real-time data streaming.
-- 💼 **Professional**: 3+ years of Freelance experience in Embedded Systems & Robotics.
-
----
-### 🛠️ Technical Laboratory
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="33%">
-      <b>Embedded & Hardware</b><br />
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" /><br />
-      <sub>ESP32 • Sensors • PCB Design</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>AI & Software</b><br />
-      <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,postman" /><br />
-      <sub>Data Analysis • ML Models</sub>
-    </td>
-    <td align="center" width="33%">
-      <b>Infrastructure</b><br />
-      <img src="https://skillicons.dev/icons?i=gcp,firebase,linux,git" /><br />
-      <sub>Cloud Management • Linux Shell</sub>
-    </td>
-  </tr>
-</table>
+## 🛰️ About Me
+- 🎓 BCA (AI & ML), Lovely Professional University  
+- 🤖 IoT Developer: Arduino, ESP32, Sensors, Automation  
+- 📊 Data Analyst: Power BI, Excel, Python  
+- 🔗 Turning sensor data → insights → dashboards  
+- 💼 3+ years experience in IoT & smart systems  
 
 ---
 
-### 🚀 Projects & Ventures
+## 🛠️ Tech Stack
 
-- 🛠️ **EC Core Solutions**: Specialized project-building service for B.Tech ECE students.
-- 🍕 **Midnight Craving LPU**: Founder of a late-night food delivery service at university.
-- 🏆 **Quiz-o-Thon 2025**: Organized large-scale tech events for the School of Computer Application.
+### 🔧 Embedded & IoT  
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp"/>
 
----
+### 📊 Data Analytics  
+<img src="https://skillicons.dev/icons?i=python"/>
 
-### 📈 Real-Time Diagnostics
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<div align="center">
-  <img src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?variant=dark&username=harshit-bhargava" alt="snake" />
-  
-  <br />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-bhargava&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-bhargava&theme=tokyonight&border_radius=10" />
-</div>
+### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,linux,firebase"/>
 
 ---
 
-### 🕹️ Current Project Log
+## 🚀 Featured Projects
+
+🔗 <a href="https://github.com/harshit-aiot/smart-plant-guardian-iot">Smart Plant Guardian</a>  
+🔗 <a href="https://github.com/harshit-aiot/smart-irrigation-iot-system">Smart Irrigation System</a>  
+🔗 <a href="https://github.com/harshit-aiot/gesture-controlled-robot-arduino">Gesture Controlled Robot</a>  
+🔗 <a href="https://github.com/harshit-aiot/ev-data-analysis">EV Data Analysis Dashboard</a>  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-aiot&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-aiot&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Currently Working On
+
 ```python
 while True:
-    current_task = "Integrating Edge AI on ESP32"
-    status = "Active"
-    learning = ["Advanced DBMS", "Cloud Virtualization"]
-    print(f"Blinking LED... {current_task} | {status} 🟢")
+    focus = "IoT + Data Analytics"
+    tools = ["ESP32", "Power BI", "Python", "Excel"]
+    print(f"Building {focus} systems using {tools} 🚀")
