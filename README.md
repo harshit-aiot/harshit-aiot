@@ -22,6 +22,8 @@
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=harshit-aiot&color=00b4d8"/>
+
 <img src="https://img.shields.io/badge/IoT-Engineer-success?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data-Analyst-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20Python-orange?style=flat-square"/>
@@ -35,7 +37,7 @@
 - 🤖 IoT Developer: Arduino, ESP32, Sensors, Automation  
 - 📊 Data Analyst: Power BI, Excel, Python  
 - 🔗 Turning sensor data → insights → dashboards  
-- 💼 3+ years experience in IoT & smart systems  
+- 💼 Building real-world smart systems  
 
 ---
 
@@ -64,11 +66,29 @@
 
 ---
 
+## 📊 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-aiot&theme=tokyo-night"/>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-aiot&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-aiot&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-aiot&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-aiot&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-aiot&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshit-aiot/harshit-aiot/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
