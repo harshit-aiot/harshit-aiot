@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=HARSHIT%20BHARGAVA&fontSize=55&fontColor=ffffff"/>
 
-<h2>🚀 IoT + Data Analytics Engineer</h2>
+<h2>🤖 IoT + Data Analytics Engineer</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00B4D8&center=true&vCenter=true&width=600&lines=IoT+Systems+Developer;Data+Analytics+%7C+Power+BI;ESP32+%7C+Arduino+%7C+Sensors;Real-Time+Smart+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+Smart+Robots+%F0%9F%A4%96;IoT+Systems+Developer;Data+Analytics+%7C+Power+BI;ESP32+%7C+Arduino+%7C+Sensors"/>
 
 <br>
 
@@ -24,20 +24,19 @@
 
 <img src="https://komarev.com/ghpvc/?username=harshit-aiot&color=00b4d8"/>
 
-<img src="https://img.shields.io/badge/IoT-Engineer-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data-Analyst-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20Python-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Smart%20Systems-AI%20%7C%20IoT%20Robot-00b4d8?style=for-the-badge&logo=robotframework"/>
 
 </div>
 
 ---
 
 ## 🛰️ About Me
+
 - 🎓 BCA (AI & ML), Lovely Professional University  
 - 🤖 IoT Developer: Arduino, ESP32, Sensors, Automation  
 - 📊 Data Analyst: Power BI, Excel, Python  
 - 🔗 Turning sensor data → insights → dashboards  
-- 💼 Building real-world smart systems  
+- 💡 Passionate about building smart & automated systems  
 
 ---
 
@@ -66,29 +65,14 @@
 
 ---
 
-## 📊 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit-aiot&theme=tokyo-night"/>
-
----
-
-## 📊 GitHub Stats
+## 🤖 Smart Systems in Action
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshit-aiot&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-aiot&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-aiot&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshit-aiot/harshit-aiot/output/github-contribution-grid-snake.svg"/>
+⚡ Designing Intelligent Robots & Data-Driven Systems ⚡  
 </p>
 
 ---
